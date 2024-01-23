@@ -1,0 +1,1 @@
+This is a repository of small project using raw html, css and javascript. This is a fundamental of my web career. I took help from youtube for learning and developing these projects. Thanks for visiting.
